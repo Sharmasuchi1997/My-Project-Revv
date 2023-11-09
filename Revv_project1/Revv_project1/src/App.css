@@ -1,0 +1,87 @@
+.Header{
+  display: flex;
+  margin-top: 0%;
+  /* border: 1px solid purple; */
+  /* align-items: center; */
+
+}
+.sideBar{
+  width: 40%;
+  height: 30%;
+  /* border: 1px solid black; */
+  text-align: center;
+  margin-left: 60px;
+  margin-top: 15px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  padding-top: 30px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+.secHeader{
+  width: 95%;
+  /* border: 1px solid black; */
+  display: flex;
+  align-items: center;
+  /* align-items: row; */
+  justify-content: flex-end;
+  /* justify-content: space-evenly; */
+  
+  
+}
+.Subscription{
+  display: flex;
+  /* border: 1px solid yellow; */
+  height: 100px;
+  /* width: 100px; */
+  /* flex-direction: column; */
+  /* margin-right: 30px; */
+  /* padding-left: 20px; */
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  margin-right: 25px;
+  margin-top: 30px;
+  margin-left: 25px;
+  background-color: teal;
+
+}
+.Rentals{
+  display: grid;
+  /* border: 1px solid black; */
+  width: 40%;
+  margin-left: 30px;
+  margin-top: 15px;
+  /* padding-bottom: 0%; */
+  height: 70px;
+  text-align: center;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  background-color: white;
+}
+
+.htag{
+ margin-bottom: 70px;
+ font-size: 25px;
+ font-weight: 25px;
+
+
+}
+.searchDiv{
+  /* border: 1px solid palevioletred; */
+  display: flex;
+  justify-content: center;
+  align-items: row;
+  height: 100px;
+  align-items: center;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  margin-bottom: 70px;
+}
+
+.inputDiv{
+  height: 20px;
+  /* border: 1px solid grey; */
+  /* margin-bottom: 0px; */
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+
+/* table{
+  /* border: 1px solid grey; */
+} */
